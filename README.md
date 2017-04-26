@@ -1,2 +1,2 @@
-# Simon_Page
-It's a page about speed skater Szymon Palka. I used to bootstrap 4.0
+# Bootstrap Theme
+Strona HTML z użyciem frameworka bootsrap
